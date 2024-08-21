@@ -1,0 +1,1 @@
+An MCQ/Short answer exam on a google form which will cover Analytical, Mathematical, API’s, Database, Data Structure, OOP, Algorithm, Design Pattern, Networking, Programming, General Knowledge and some other exciting areas.
